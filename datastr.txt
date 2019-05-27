@@ -1,0 +1,12 @@
+What is Data Structure?
+ Data structure is a basically defined as a collection of data items that perform certain operations on it.
+Doing these operations efficiently is our main goal.
+
+Where do these operations take place?
+If you have even the slightest idea about the computer organization then you must know that these operations obviously take place in the main memory.
+
+So, next you'd be thinking how a program file on your pc utilises data?
+ Whenever you click on any application, say MS Word your laptop opens the application for you, but in the backend there exists a MS word file which resides in the HDD(hard disk i.e the secondary memory).
+This MS Word file will be brought into the main memory for execution.
+Data structures resides on the main memory, without it no application architecture is possible.
+

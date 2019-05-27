@@ -1,0 +1,27 @@
+What is a database?
+How is it used?
+What is it used for?
+Why do we need them?
+ These questions will be answered in the next few lines..
+
+When the data is of large size,we arrange it into a table same as
+a library. We have so many books and we arrange them into differrent 
+shelves accordingly. This data is organized in form of tables.
+How this data is organized in the form of tables is called databases.
+It is the process of arranging the data in some model, like permanent storage or relational model
+so that it can later be retrieved or accessed by the application easily inside the main memory.
+
+Commercial data can be divided into two broad types:
+1.Operational data (used on daily basis).
+2. Legacy Data(old, usually kept as storage).
+
+The legacy data is the historical data which is not used daily but is kept in an array of tables is called data Warehouse.
+This old data in the storage helps in making decisions in organizations related finance, influence decision making.
+Algorithms written to mine data is called data mining algorithms.
+
+BIG DATA
+It is very fancy term, which is taking the rounds in the corporate sector a lot.
+Humongous amount of data on the Internet that is accumulated about things, people, information, news is called Big Data.
+We can take a lot of informed decisions using this data in the field of investment, governance, management and businesses.
+Storing and utilization this large scale data is called Big Data.
+ 
